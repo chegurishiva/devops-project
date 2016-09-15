@@ -24,7 +24,7 @@
 
 4.  Clone and run the palybook
 
-    git clone Https:
+    git clone Https:https://github.com/chegurishiva/devops-project/tree/master
 
     Run Ansible playbook in your work station using
 
